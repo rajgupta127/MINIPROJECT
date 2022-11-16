@@ -1,0 +1,11 @@
+.rs{
+    color: blue;
+    border: 1px solid greenyellow;
+    border-radius: 4px;
+}
+#sr{
+    color:black;
+    border:2px solid yellow;
+    border-radius: 5px;
+    font-family: 'Times New Roman', Times, serif;
+}
